@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "正しい街",
-  "base_artist": "Sheena Ringo",
-  "createdAt": "2025-12-27T13:43:26.828134Z",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-03-13T12:19:31.128864Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,46 +99,6 @@
       "artist": "椎名 林檎",
       "has_synced": false,
       "path": "select/pl_01_正しい街_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "正しい街",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_02_正しい街_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "正しい街",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_03_正しい街_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "正しい街",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_04_正しい街_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "正しい街",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_05_正しい街_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "正しい街",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_06_正しい街_椎名_林檎.txt"
     }
   ]
 }
